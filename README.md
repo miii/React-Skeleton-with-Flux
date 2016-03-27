@@ -1,5 +1,8 @@
 # React skeleton using Flux
-Simple react web application skeleton using the Flux architecture.
+Simple react web application skeleton using the Flux architecture.<br>
+Feel free to use in your own projects!<br>
+<i>Licensed under CC0.</i>
+
 #### Useful Node.js commands
 - Use `npm run watch-js` to bake the app.js file.
 - Use `npm run watch-css` to bake the app.css from SCSS.
